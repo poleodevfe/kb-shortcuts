@@ -2,6 +2,8 @@
 
 A collection of keyboards-shortcuts that make my life easier and maybe your's to.
 
+For now it's only for windows but you shouldn't have a problem mapping this to macOS.
+
 - Windows OS:
   - [Open quick configuration of shortcuts](#open-quick-configuration-of-shortcuts)
   - [Switch between VScode windows without touching the mouse](#switch-between-vscode-windows-without-touching-the-mouse)
