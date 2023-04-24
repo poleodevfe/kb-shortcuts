@@ -1,4 +1,4 @@
-# Kaizen kb-shortcuts 😎
+# VScode kb-shortcuts 😎
 
 A collection of keyboards-shortcuts that make my life easier and maybe your's to.
 
