@@ -83,18 +83,18 @@ For now it's only for windows but you shouldn't have a problem mapping this to m
 
 ## View the current file in split-screen horizontally
 
-**configuration:** Split down
+**configuration:** "Split down"
 
 **shortcut:** `shift + d`
 
 ## Open the file browser and focus on it to navigate with the arrow keys
 
-**configuration:** View: Show Explorer
+**configuration:** "View: Show Explorer"
 
 **shortcut:** `ctrl + e`
 
 ## Collapse all open folders in the file browser
 
-**configuration:** Collapse folders in explorer: shift + e
+**configuration:** "Collapse folders in explorer: shift + e"
 
-**shortcut:** `shift + e`
+**shortcut:** `ctrl + shift + e`
